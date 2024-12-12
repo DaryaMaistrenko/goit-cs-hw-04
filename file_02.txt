@@ -1,0 +1,4 @@
+System check passed.
+Error: Invalid user credentials.
+Warning: Disk usage is over 90%.
+Critical: Memory leak detected in process 1245.
